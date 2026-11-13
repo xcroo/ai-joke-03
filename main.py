@@ -1,3 +1,4 @@
+# Deterministic: one fixed joke, byte-identical output on every run.
 # ai-joke-03 entry: write one original one-liner about AI coding agents to /output/entry.txt.
 # Deterministic: the same joke every run, no randomness, no network.
 import os
